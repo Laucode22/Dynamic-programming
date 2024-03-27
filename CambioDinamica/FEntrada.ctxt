@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=FEntrada
+comment0.text=\r\n\ Esta\ clase\ representa\ la\ entrada\ de\ datos\ y\ contiene\ m\u00E9todos\ relacionados\ con\ la\ inicializaci\u00F3n\ de\ valores\r\n\ \r\n\ @author\ Laura\ Saltaren\ \r\n
+comment1.params=n\ A\ C
+comment1.target=FEntrada(int,\ int[],\ int)
+comment1.text=\r\n\ Objetivo\:\ Inicializa\ las\ variables\ de\ entrada\ con\ los\ valores\ proporcionados.\r\n\ Par\u00E1metros\:\r\n\ n\:\ N\u00FAmero\ de\ tipos\ de\ monedas.\r\n\ A\:\ Valores\ de\ los\ diferentes\ tipos\ de\ monedas.\r\n\ C\:\ Cantidad\ a\ devolver.\r\n
+comment2.params=
+comment2.target=int\ getCantidaDevolver()
+comment2.text=\r\n\ Objetivo\:\ Proporciona\ acceso\ a\ los\ valores\ almacenados\ en\ la\ instancia\ de\ FEntrada.\r\n\ Return\:\ Devuelven\ la\ cantidad\ a\ devolver.\r\n
+comment3.params=
+comment3.target=int[]\ getVmoneda()
+comment3.text=\r\n\ Objetivo\:\ Proporciona\ acceso\ a\ los\ valores\ almacenados\ en\ la\ instancia\ de\ FEntrada.\r\n\ Return\:\ Devuelven\ los\ valores\ de\ las\ monedas.\r\n
+comment4.params=
+comment4.target=int\ getTmoneda()
+comment4.text=\r\n\ Objetivo\:\ Proporciona\ acceso\ a\ los\ valores\ almacenados\ en\ la\ instancia\ de\ FEntrada.\r\n\ Return\:\ Devuelven\ el\ n\u00FAmero\ de\ tipos\ de\ monedas.\r\n
+comment5.params=args\ startIndex
+comment5.target=java.util.Scanner\ getScanner(java.lang.String[],\ int)
+comment5.text=\r\n\ Objetivo\:\ Devuelve\ un\ objeto\ Scanner\ para\ leer\ datos\ de\ entrada\ desde\ un\ archivo\ o\ la\ entrada\ est\u00E1ndar.\r\n\ Par\u00E1metros\:\r\n\ args\:\ Argumentos\ del\ programa.\r\n\ startIndex\:\ \u00CDndice\ para\ comenzar\ la\ lectura\ de\ argumentos.\r\n\ Return\:\ Un\ objeto\ Scanner\ configurado\ para\ leer\ desde\ un\ archivo\ o\ la\ entrada\ est\u00E1ndar.\r\n
+numComments=6

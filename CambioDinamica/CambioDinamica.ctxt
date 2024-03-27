@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=CambioDinamica
+comment0.text=\r\n\ Esta\ clase\ representa\ la\ entrada\ del\ programa\ \r\n\ y\ la\ ejecuci\u00F3n\ principal\ del\ algoritmo\ de\ cambio\ din\u00E1mico\r\n\ Objetivo\:\ Punto\ de\ entrada\ principal\ del\ programa.\r\n\ Verificaci\u00F3n\ de\ Argumentos\:\ Comprueba\ la\ cantidad\ correcta\ de\ argumentos\ y\ maneja\ las\ opciones\ -t\ (traza)\ y\ -h\ (ayuda).\r\n\ Creaci\u00F3n\ de\ Instancia\ de\ FSalida\:\ Inicializa\ una\ instancia\ de\ la\ clase\ FSalida\ que\ gestionar\u00E1\ la\ l\u00F3gica\ principal.\r\n\ Lectura\ de\ Datos\ de\ Entrada\:\ Lee\ el\ n\u00FAmero\ de\ tipos\ de\ monedas,\ los\ valores\ de\ las\ monedas\ y\ la\ cantidad\ a\ devolver.\r\n\ Resoluci\u00F3n\ del\ Problema\:\ Llama\ a\ m\u00E9todos\ de\ la\ instancia\ de\ FSalida\ para\ resolver\ el\ problema\ y\ mostrar\ o\ escribir\ la\ soluci\u00F3n.\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
